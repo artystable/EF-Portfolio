@@ -47,6 +47,11 @@ header {
   width: 80%;
 }
 
+/* Fix issue with logo not centered as desired. */
+.logo a {
+  align-self: center;
+}
+
 .ef-logo {
   text-align: center;
 }
